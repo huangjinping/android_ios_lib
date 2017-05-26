@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/harrishuang/Documents/ANDROID_TOOLS/Importlibdemo/app/libs/myjson.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="35895fb49906bce80d2a5a08608714bfeb95da4d">
+        <dex dex="/Users/harrishuang/Documents/ANDROID_TOOLS/Importlibdemo/app/build/intermediates/pre-dexed/debug/myjson-e3e5002cebc97cc8879f71f1fa8d06cbe1c0a741.jar" />
+    </item>
+
+</items>
